@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GF-Cris
-- 👀 I’m interested in Bioinformatics, Genetics and programing
-- 🌱 I’m currently learning Python and Git
+- 👀 I’m interested in Bioinformatics, OMICS data analysis and programing
+- 🌱 
 
 
 <!---
